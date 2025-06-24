@@ -81,3 +81,7 @@
     font-weight: 700;
     font-style: italic;
 }
+
+body {
+    font-family: 'IBM Plex Mono', monospace;
+}
